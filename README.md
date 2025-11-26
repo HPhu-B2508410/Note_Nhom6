@@ -2,9 +2,9 @@
 
 **NoteKeeper** là một ứng dụng ghi chú đơn giản nhưng hiệu quả, được phát triển với giao diện GUI thân thiện. Dự án này bao gồm hai phiên bản chính:
 
-- **v0.1** – Phiên bản UI cơ bản, layout giao diện
-- **v0.2** – Thêm/Xóa/Sửa ghi chú (CRUD, lưu trong RAM)
-- **v0.3** – Release chính thức với tính năng lưu/load JSON, auto-save, tối ưu UI
+- **v0.1** – Tao giao dien NoteKeeper
+- **v0.2** – Thêm tính năng Thêm/Xóa/Sửa ghi chú
+- **v0.3** – Release chính thức với tính năng auto-save
 
 ---
 
