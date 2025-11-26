@@ -10,7 +10,7 @@
 
 ##  Công nghệ sử dụng
 
-- Python 3.13
+- Python 3.10
 - Tkinter + ttkbootstrap (GUI hiện đại)
 - JSON (v0.3) để lưu dữ liệu
 - Git & GitHub để quản lý phiên bản
