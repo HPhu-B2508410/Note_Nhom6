@@ -18,17 +18,6 @@
 
 ---
 
-##  Cấu trúc thư mục
-NoteKeeper /n
-│/n
-├─ app.py # Main application code/n
-├─ notes.json # Dữ liệu ghi chú (v0.3)
-├─ .gitignore # Bỏ qua các file tạm
-└─ README.md # File hướng dẫn
-
----
-
-
 ---
 
 ##  Phiên bản v0.1 – Giao dien co ban
