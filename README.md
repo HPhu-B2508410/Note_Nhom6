@@ -19,12 +19,12 @@
 ---
 
 ##  Cấu trúc thư mục
-NoteKeeper/
-│
-├─ app.py # Main application code
-├─ notes.json # Dữ liệu ghi chú (v0.3)
-├─ .gitignore # Bỏ qua các file tạm
-└─ README.md # File hướng dẫn
+-NoteKeeper/
+-│
+-├─ app.py # Main application code
+-├─ notes.json # Dữ liệu ghi chú (v0.3)
+-├─ .gitignore # Bỏ qua các file tạm
+-└─ README.md # File hướng dẫn
 
 ---
 
